@@ -35,20 +35,16 @@ var listOfHighScores = document.getElementById("listOfHighScores");
 // Questions
 questions = [
     {
-        question: "Inside which HTML element do we put the JavaScript?",
-        choices: ["a. <js>", "b. <javascript>", "c. <scripting>", "d. <script>"],
-        answer: "d. <script>"
+        question: "Which bootstrap class set property and side for margin-left and right?",
+        choices: ["a. lm-mr", "b. ml-rm", "c. mr", "d. mx"],
+        answer: "d. mx"
     },
     {
         question: "String values must be enclosed within _____ when being assigned to variables.",
-        choices: ["a. commas", "b. curly brackets", "c. quotes", "d. parenthesis"],
-        answer: "c. quotes"
+        choices: ["a. quotes", "b. camel case", "c. comma", "d. question marks"],
+        answer: "a. quotes"
     },
-    {
-        question: "Arrays in JavaScript can be used to store _____.",
-        choices: ["a. numbers and strings", "b. other arrays", "c. booleans", "d. all of the above"],
-        answer: "b. other arrays"
-    },
+
     {
         question: "Commonly used data types DO NOT include:",
         choices: ["a. strings", "b. booleans", "c. alerts", "d. numbers"],
@@ -59,15 +55,11 @@ questions = [
         choices: ["a. function = myFunction()", "b. function myFunction()", "c. function:myFunction()", "d. createMyFunction()"],
         answer: "b. function myFunction()"
     },
+
     {
-        question: "How do you call a function named myFunction?",
-        choices: ["a. call myFunction()", "b. call function myFunction()", "c. myFunction()", "d. call myFunction"],
-        answer: "c. myFunctions()"
-    },
-    {
-        question: "To see if two variables are equal in an if / else statement you would use ____.",
-        choices: ["a. =", "b. ==", "c. 'equals'", "d. !="],
-        answer: "b. =="
+        question: "Why is JSON used?",
+        choices: ["a. To store and transfer data", "b. To clean JavaScript", "c. To multiply and divide numbers", "d. To spellcheck entire code"],
+        answer: "a. To store and transfer data"
     },
     {
         question: "The first index of an array is ____.",
@@ -90,9 +82,9 @@ questions = [
         answer: "a. //This is a comment"
     },
     {
-        question: "Which event occurs when the user clicks on an HTML element?",
-        choices: ["a. onclick", "b. onchange", "c. onmouseover", "d. onmouseclick"],
-        answer: "a. onclick"
+        question: "What is does JSON stand for?",
+        choices: ["a. Just Stay On North", "b. JavaScript Object Notation", "c. Java Structure Object Notation", "d. JavaScript Omit Notation"],
+        answer: "b. JavaScript Object Notation"
     }
 ];
 
