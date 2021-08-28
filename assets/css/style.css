@@ -4,17 +4,17 @@ body {
 
 h1, h2 {
     color: #313740;
-    font-family: 'Montserrat', sans-serif;
+    font-family: Georgia, 'Times New Roman', Times, serif, sans-serif;
 }
 
 a {
     color: #4f45a8;
-    font-family: 'Archivo', sans-serif;
+    font-family: 'Lucida Sans', sans-serif;
 }
 
 a:hover {
     color: #9a92e6;
-    font-family: 'Archivo', sans-serif;
+    font-family: 'Lucida Sans', sans-serif;
 }
 
 .btn:focus, .btn:active, .btn:visited {
@@ -24,21 +24,21 @@ a:hover {
 }
 
 #finalScore {
-    font-family: 'Montserrat', sans-serif;
+    font-family: Georgia, 'Times New Roman', Times, serif, sans-serif;
     font-weight: bold;
 }
 
 span {
-    font-family: 'Archivo', sans-serif;
+    font-family: 'Lucida Sans', sans-serif;
 }
 
 p {
-    font-family: 'Archivo', sans-serif;
+    font-family: 'Lucida Sans', sans-serif;
 }
 
 #questionTitle {
     font-size: 20px;
-    font-family: 'Montserrat', sans-serif;
+    font-family: Georgia, 'Times New Roman', Times, serif, sans-serif;
 }
 
 #answerCheck {
