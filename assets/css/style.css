@@ -3,24 +3,20 @@ body {
 }
 
 h1, h2 {
-    color: #313740;
     font-family: Georgia, 'Times New Roman', Times, serif, sans-serif;
 }
 
 a {
-    color: #4f45a8;
     font-family: 'Lucida Sans', sans-serif;
 }
 
 a:hover {
-    color: #9a92e6;
     font-family: 'Lucida Sans', sans-serif;
 }
 
 .btn:focus, .btn:active, .btn:visited {
     outline: none !important;
     box-shadow: none !important;
-    background-color: #574596;
 }
 
 #finalScore {
