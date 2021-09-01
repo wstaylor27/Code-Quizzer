@@ -20,30 +20,23 @@ THEN I can save my initials and my score
 
 ## Bootstrap
 
-Bootstrap (sigh)...is a beautiful asset. It's purpose is for easier styling. From its website, there are multiple preset styles from buttons, to forms, and even modals. I used bootstrap for my buttons and positioning of elements. I used the grid system to center my questions.
+Bootstrap (sigh)...is a beautiful asset. It's purpose is for easier styling. From its website, there are multiple preset styles from buttons, to forms, and even modals. I used bootstrap for my buttons and positioning of elements. I used the grid system to center my questions by setting the middle column to 8 while the left and right were 2.
 
-## Functions
+## Functions and Setting Variables
  
-After
+This segment by far was the most challenging. I googled for days in search of a starting point. I figure I'd used some of the data I saw as a reference. Almost every variable must be called using jquery. Jquery esstentially takes the class or id and can convert it to a variable. Functions triggered when "clicks" or listeners became active. I used arrays to order the questions and multiple choices. I'm very familiar with indexes so I felt this was the best method for me to understand.
 
-## Object
-
-Once the user has answer the first alert, the user is then asked to choose what KIND (key value pairs) of characters they wish to use in the password. We use window.confirm to answer "Ok" which would be yes or true and "Cancel" which would be no or false. The if arugements that follow will concatenate the key value pairs if true. Once the passwordText has been concatenate, we must use randomization to choose the characters from the length of passwordText.
-
-## Password
-
-After each character is randomly selected, it becomes the new valvue of password. Password is then passed into the passwordText.value.
 
 ## Misc
   
-Comments were added for clarity. I also added some spacing for legibility purposes.  
+Comments were added for clarity. I also added some spacing for legibility purposes. Initially I thought about creating an additional html file, but I was able to find resources that allowed me to not create a new file. Instead, I stuck to using just one.
 
 ## Lessons Learned
 
-I learned about the importance of understanding variables and queries. Every week, these assignments get more challenging. I was also taught a new method of determining how my code is functioning by using Debugging from the Sources in the DevTool. This allowed me to take my code step by step to understand what is being communicated in realtime.
+PRACTICE PRACTICE PRACTICE & RESEARCH RESEARCH RESEARCH. I spent well over 20 hours trying to get this homework squared away. I hit a ton of walls. I was trying to memorize what I had learned without realizing that Google was my friend. From now on, I plan on practicing with what I've learned more than ever. Also, I can't be afraid to use Google as a guide. There are many methods to generating a solution. I just have to choose the right one for me.
 
 ## URL
 
-https://wstaylor27.github.io/Password-Generator/
+https://wstaylor27.github.io/Code-Quizzer/
 
-![image](https://user-images.githubusercontent.com/54382901/130334737-ca87d76d-6c2e-427e-b780-1570ec2092e5.png)
+![image](https://user-images.githubusercontent.com/54382901/131600010-af4652d0-ec15-429e-b219-af48258e9428.png)
